@@ -1,13 +1,7 @@
-# Adafruit INA219 Library [![Build Status](https://travis-ci.org/adafruit/Adafruit_INA219.svg?branch=master)](https://travis-ci.org/adafruit/Adafruit_INA219)
+Adafruit_INA219
+===============
 
-<img src="https://cdn-shop.adafruit.com/970x728/904-00.jpg" height="300"/>
-
-This is a library for the Adafruit INA219 high side DC current sensor boards:
-  * https://www.adafruit.com/products/904
-  * https://www.adafruit.com/product/3650
- 
-Check out the links above for our tutorials and wiring diagrams. This chip uses I2C to communicate
-
+INA219 Current Sensor
 <!-- START COMPATIBILITY TABLE -->
 
 ## Compatibility
@@ -39,8 +33,3 @@ STM32F2            |             |             |     X       |
   * ATtiny85 @ 8MHz : Adafruit Gemma, Arduino Gemma, Adafruit Trinket 3V
 
 <!-- END COMPATIBILITY TABLE -->
-
-Adafruit invests time and resources providing this open source code, please support Adafruit and open-source hardware by purchasing products from Adafruit!
-
-Written by Ktown for Adafruit Industries.
-MIT license, all text above must be included in any redistribution
